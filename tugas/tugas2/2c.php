@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>c.php</title>
-    <link rel="stylesheet" href="c.css">
+    <link rel="stylesheet" href="2c.css">
 </head>
 <body>
     <?php for ($i = 10; $i >= 1; $i--) : ?>
