@@ -1,6 +1,6 @@
 <?php
 //Array Multidimensi
-    $binatang = [['🐈‍⬛', 'Ungu'], ['🐇', 'Putih'], ['🐒', 'Cokelat']];
+    $binatang = [["🐈‍⬛", "Ungu"], ["🐇", "Putih"], ["🐒", "Cokelat"]];
 ?>
 
 <!DOCTYPE html>
